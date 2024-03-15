@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <div>
+        Hello from Index view
+    </div>
+    <div>
+        @DateTime.Now
+        @(5-3)
+    </div>
+    <div>
+        @{ 
+           // var a = 1;
+           /* var b = 2;
+            var c = a+b;*/
+            var currentTime = DateTime.Now;
+            var tomorrowTime = DateTime.Now.AddDays(1);
+            
+        }
+
+        <div>
+            <label>@c</label>
+            <label>Current time - @tomorrowTime</label> <br />
+        </div>
+    </div>
+</main>
