@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET\\Labtask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|d:\\dot net\\labtask1\\labtask1\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|solutionrelative:labtask1\\views\\home\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|d:\\dot net\\labtask1\\labtask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|solutionrelative:labtask1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|d:\\dot net\\labtask1\\labtask1\\views\\home\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|solutionrelative:labtask1\\views\\home\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|d:\\dot net\\labtask1\\labtask1\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|solutionrelative:labtask1\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|d:\\dot net\\labtask1\\labtask1\\views\\home\\personal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|solutionrelative:labtask1\\views\\home\\personal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|d:\\dot net\\labtask1\\labtask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6F8B6C-9BFC-473B-83DB-0FAD3A79DEAC}|Labtask1\\Labtask1.csproj|solutionrelative:labtask1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Labtask1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Labtask1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:10:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personal.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Personal.cshtml",
+              "RelativeDocumentMoniker": "Labtask1\\Views\\Home\\Personal.cshtml",
+              "ToolTip": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Personal.cshtml",
+              "RelativeToolTip": "Labtask1\\Views\\Home\\Personal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:03:45.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reference.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Reference.cshtml",
+              "RelativeDocumentMoniker": "Labtask1\\Views\\Home\\Reference.cshtml",
+              "ToolTip": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Reference.cshtml",
+              "RelativeToolTip": "Labtask1\\Views\\Home\\Reference.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:03:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Project.cshtml",
+              "RelativeDocumentMoniker": "Labtask1\\Views\\Home\\Project.cshtml",
+              "ToolTip": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Project.cshtml",
+              "RelativeToolTip": "Labtask1\\Views\\Home\\Project.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:03:20.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Education.cshtml",
+              "RelativeDocumentMoniker": "Labtask1\\Views\\Home\\Education.cshtml",
+              "ToolTip": "D:\\DOT NET\\Labtask1\\Labtask1\\Views\\Home\\Education.cshtml",
+              "RelativeToolTip": "Labtask1\\Views\\Home\\Education.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:03:01.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Labtask1\\Labtask1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Labtask1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOT NET\\Labtask1\\Labtask1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Labtask1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:01:07.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

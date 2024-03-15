@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET\\RazorViewEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416E5464-9473-4CFF-87AD-7CD6681F8A1A}|RazorViewEngine\\RazorViewEngine.csproj|d:\\dot net\\razorviewengine\\razorviewengine\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{416E5464-9473-4CFF-87AD-7CD6681F8A1A}|RazorViewEngine\\RazorViewEngine.csproj|solutionrelative:razorviewengine\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\RazorViewEngine\\RazorViewEngine\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorViewEngine\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DOT NET\\RazorViewEngine\\RazorViewEngine\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RazorViewEngine\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T22:30:11.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
