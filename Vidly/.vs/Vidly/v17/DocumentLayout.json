@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET\\Vidly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|d:\\dot net\\vidly\\vidly\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|d:\\dot net\\vidly\\vidly\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|solutionrelative:vidly\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|d:\\dot net\\vidly\\vidly\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|d:\\dot net\\vidly\\vidly\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|solutionrelative:vidly\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|d:\\dot net\\vidly\\vidly\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C8E12E-C52A-4872-92E8-30758DEA0317}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Vidly\\Vidly\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Vidly\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\DOT NET\\Vidly\\Vidly\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Vidly\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:50:11.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Vidly\\Vidly\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Vidly\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\DOT NET\\Vidly\\Vidly\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Vidly\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:36:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\Vidly\\Vidly\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Movies\\Random.cshtml",
+              "ToolTip": "D:\\DOT NET\\Vidly\\Vidly\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Movies\\Random.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T10:19:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Vidly\\Vidly\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\DOT NET\\Vidly\\Vidly\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:15:31.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Vidly\\Vidly\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\Movie.cs",
+              "ToolTip": "D:\\DOT NET\\Vidly\\Vidly\\Models\\Movie.cs",
+              "RelativeToolTip": "Vidly\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:12:14.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

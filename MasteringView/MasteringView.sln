@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasteringView", "MasteringView\MasteringView.csproj", "{B4B109CE-A1B2-4CBB-B9C5-1F05C693091F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B109CE-A1B2-4CBB-B9C5-1F05C693091F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B109CE-A1B2-4CBB-B9C5-1F05C693091F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B109CE-A1B2-4CBB-B9C5-1F05C693091F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B109CE-A1B2-4CBB-B9C5-1F05C693091F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDBBFF0C-A822-437E-BC84-5494D9C23BF0}
+	EndGlobalSection
+EndGlobal
