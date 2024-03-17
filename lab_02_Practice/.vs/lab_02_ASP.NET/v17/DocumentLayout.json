@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_asp.net\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|solutionrelative:lab_02_asp.net\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|solutionrelative:lab_02_asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|solutionrelative:lab_02_asp.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_asp.net\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|solutionrelative:lab_02_asp.net\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|e:\\dot net\\asp.net-framework-lab-task-main\\lab 02\\lab_02_asp.net\\lab_02_asp.net\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{285B6B51-4E70-45E8-AF68-8812B12F01C5}|lab_02_ASP.NET\\lab_02_ASP.NET.csproj|solutionrelative:lab_02_asp.net\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lab_02_ASP.NET\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab_02_ASP.NET\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:29:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Controllers\\adminController.cs",
+              "RelativeDocumentMoniker": "lab_02_ASP.NET\\Controllers\\adminController.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Controllers\\adminController.cs",
+              "RelativeToolTip": "lab_02_ASP.NET\\Controllers\\adminController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:29:22.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userModel.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Models\\userModel.cs",
+              "RelativeDocumentMoniker": "lab_02_ASP.NET\\Models\\userModel.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Models\\userModel.cs",
+              "RelativeToolTip": "lab_02_ASP.NET\\Models\\userModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:29:22.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Views\\user\\signup.cshtml",
+              "RelativeDocumentMoniker": "lab_02_ASP.NET\\Views\\user\\signup.cshtml",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Views\\user\\signup.cshtml",
+              "RelativeToolTip": "lab_02_ASP.NET\\Views\\user\\signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:29:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "lab_02_ASP.NET\\Controllers\\userController.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 02\\lab_02_ASP.NET\\lab_02_ASP.NET\\Controllers\\userController.cs",
+              "RelativeToolTip": "lab_02_ASP.NET\\Controllers\\userController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:29:24.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
