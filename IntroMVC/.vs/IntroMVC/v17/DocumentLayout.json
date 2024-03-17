@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|e:\\dot net\\asp.net-framework-lab-task-main\\lab 01\\intromvc\\intromvc\\views\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|solutionrelative:intromvc\\views\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|e:\\dot net\\asp.net-framework-lab-task-main\\lab 01\\intromvc\\intromvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|solutionrelative:intromvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|e:\\dot net\\asp.net-framework-lab-task-main\\lab 01\\intromvc\\intromvc\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|solutionrelative:intromvc\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|e:\\dot net\\asp.net-framework-lab-task-main\\lab 01\\intromvc\\intromvc\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8154983-B450-4001-9E5E-3620E13DCAE2}|IntroMVC\\Task 01.csproj|solutionrelative:intromvc\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Views\\Pages\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "IntroMVC\\Views\\Pages\\Welcome.cshtml",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Views\\Pages\\Welcome.cshtml",
+              "RelativeToolTip": "IntroMVC\\Views\\Pages\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:28:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "IntroMVC\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:24:14.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Controllers\\PagesController.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "IntroMVC\\Controllers\\PagesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:23:20.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "IntroMVC\\Controllers\\PortfolioController.cs",
+              "ToolTip": "E:\\Dot NET\\ASP.NET-Framework-Lab-Task-main\\Lab 01\\IntroMVC\\IntroMVC\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "IntroMVC\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:18:12.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
