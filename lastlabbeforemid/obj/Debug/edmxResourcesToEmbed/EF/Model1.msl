@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="labtaskModelStoreContainer" CdmEntityContainer="labtaskEntities1">
+    <EntitySetMapping Name="courseTbls">
+      <EntityTypeMapping TypeName="labtaskModel.courseTbl">
+        <MappingFragment StoreEntitySet="courseTbl">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="credit" ColumnName="credit" />
+          <ScalarProperty Name="courseCode" ColumnName="courseCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="departmentTbls">
+      <EntityTypeMapping TypeName="labtaskModel.departmentTbl">
+        <MappingFragment StoreEntitySet="departmentTbl">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="studentTbls">
+      <EntityTypeMapping TypeName="labtaskModel.studentTbl">
+        <MappingFragment StoreEntitySet="studentTbl">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="cgpa" ColumnName="cgpa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

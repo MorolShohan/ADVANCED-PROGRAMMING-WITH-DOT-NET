@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="labtaskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="courseTbl">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="credit" Type="int" Nullable="false" />
+    <Property Name="courseCode" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'labtask.dbo.departmentTbl' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="departmentTbl">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'labtask.dbo.studentTbl' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="studentTbl">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="address" />
+      <PropertyRef Name="cgpa" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cgpa" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="labtaskModelStoreContainer">
+    <EntitySet Name="courseTbl" EntityType="Self.courseTbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="departmentTbl" EntityType="Self.departmentTbl" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [departmentTbl].[id] AS [id], 
+    [departmentTbl].[name] AS [name]
+    FROM [dbo].[departmentTbl] AS [departmentTbl]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="studentTbl" EntityType="Self.studentTbl" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [studentTbl].[id] AS [id], 
+    [studentTbl].[name] AS [name], 
+    [studentTbl].[address] AS [address], 
+    [studentTbl].[cgpa] AS [cgpa]
+    FROM [dbo].[studentTbl] AS [studentTbl]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

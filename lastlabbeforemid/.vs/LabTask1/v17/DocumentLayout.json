@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dot NET\\dotnet-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|E:\\Dot NET\\dotnet-master\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}",
+      "RelativeMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|solutionrelative:ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|E:\\Dot NET\\dotnet-master\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|e:\\dot net\\dotnet-master\\views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|solutionrelative:views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|E:\\Dot NET\\dotnet-master\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F18EC45F-5F7B-41D0-88CC-EB6D635A8BA5}|LabTask1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "course.cshtml",
+              "DocumentMoniker": "E:\\Dot NET\\dotnet-master\\Views\\Course\\course.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\course.cshtml",
+              "ToolTip": "E:\\Dot NET\\dotnet-master\\Views\\Course\\course.cshtml",
+              "RelativeToolTip": "Views\\Course\\course.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T10:08:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Dot NET\\dotnet-master\\EF\\model1.edmx",
+              "RelativeDocumentMoniker": "EF\\model1.edmx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\LabTask1\\EF\\model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-17T10:08:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Dot NET\\dotnet-master\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\Dot NET\\dotnet-master\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAOAwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-17T10:08:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\Dot NET\\dotnet-master\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "E:\\Dot NET\\dotnet-master\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T10:08:08.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
