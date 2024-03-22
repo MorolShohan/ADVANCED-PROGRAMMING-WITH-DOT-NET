@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Lab_3_6_2024Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Enrollment">
+    <Key>
+      <PropertyRef Name="EnrollmentId" />
+    </Key>
+    <Property Name="EnrollmentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProjectId" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Project" Relationship="Self.FK_Enrollments_Projects" FromRole="Enrollments" ToRole="Projects" />
+    <NavigationProperty Name="User" Relationship="Self.FK_Enrollments_Users" FromRole="Enrollments" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectId" />
+    </Key>
+    <Property Name="ProjectId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ExpectedDeadline" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Enrollments" Relationship="Self.FK_Enrollments_Projects" FromRole="Projects" ToRole="Enrollments" />
+    <NavigationProperty Name="UserProjectRelations" Relationship="Self.FK_UserProjectRelation_Projects" FromRole="Projects" ToRole="UserProjectRelation" />
+  </EntityType>
+  <EntityType Name="UserProjectRelation">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProjectId" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Project" Relationship="Self.FK_UserProjectRelation_Projects" FromRole="UserProjectRelation" ToRole="Projects" />
+    <NavigationProperty Name="User" Relationship="Self.FK_UserProjectRelation_Users" FromRole="UserProjectRelation" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Role" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Enrollments" Relationship="Self.FK_Enrollments_Users" FromRole="Users" ToRole="Enrollments" />
+    <NavigationProperty Name="UserProjectRelations" Relationship="Self.FK_UserProjectRelation_Users" FromRole="Users" ToRole="UserProjectRelation" />
+  </EntityType>
+  <Association Name="FK_Enrollments_Projects">
+    <End Role="Projects" Type="Self.Project" Multiplicity="1" />
+    <End Role="Enrollments" Type="Self.Enrollment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projects">
+        <PropertyRef Name="ProjectId" />
+      </Principal>
+      <Dependent Role="Enrollments">
+        <PropertyRef Name="ProjectId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Enrollments_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Enrollments" Type="Self.Enrollment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Enrollments">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserProjectRelation_Projects">
+    <End Role="Projects" Type="Self.Project" Multiplicity="1" />
+    <End Role="UserProjectRelation" Type="Self.UserProjectRelation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Projects">
+        <PropertyRef Name="ProjectId" />
+      </Principal>
+      <Dependent Role="UserProjectRelation">
+        <PropertyRef Name="ProjectId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserProjectRelation_Users">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="UserProjectRelation" Type="Self.UserProjectRelation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserProjectRelation">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Lab_3_6_2024Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Enrollments" EntityType="Self.Enrollment" />
+    <EntitySet Name="Projects" EntityType="Self.Project" />
+    <EntitySet Name="UserProjectRelations" EntityType="Self.UserProjectRelation" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Enrollments_Projects" Association="Self.FK_Enrollments_Projects">
+      <End Role="Projects" EntitySet="Projects" />
+      <End Role="Enrollments" EntitySet="Enrollments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Enrollments_Users" Association="Self.FK_Enrollments_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Enrollments" EntitySet="Enrollments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserProjectRelation_Projects" Association="Self.FK_UserProjectRelation_Projects">
+      <End Role="Projects" EntitySet="Projects" />
+      <End Role="UserProjectRelation" EntitySet="UserProjectRelations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserProjectRelation_Users" Association="Self.FK_UserProjectRelation_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserProjectRelation" EntitySet="UserProjectRelations" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

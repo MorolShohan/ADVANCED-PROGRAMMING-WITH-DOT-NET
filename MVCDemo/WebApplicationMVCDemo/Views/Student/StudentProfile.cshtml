@@ -1,0 +1,62 @@
+﻿@using WebApplicationMVCDemo.Models
+@model WebApplicationMVCDemo.Models.Student
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StudentProfile</title>
+</head>
+<body>
+    <div>
+        @DateTime.Now
+        <h3>jsjdj@hello</h3>
+        @{
+            var x = 9;
+            var y = 10;
+            var z = 9 + 10;
+            <h3>@z</h3>
+
+            if (z < 20)
+            {
+                <h3>value less than 20</h3>
+            }
+            else
+            {
+                <h3>value more than 20</h3>
+            }
+
+            var l = new string[] { "red", "green", "blue" };
+            <text>var l = new string[] { "red", "green", "blue" };</text>
+            @*foreach (var c in l)
+            {
+                <ul>
+                    <li>@c</li>
+                </ul>*@
+        }
+        }
+    </div>
+   
+    <div>
+        @{
+            Student s = new Student() { Id = 100, Name = "Bruce", Department = "CS" };
+            <ul>
+                <li>Student Id : @s.Id</li>
+                <li>Student Id : @s.Name</li>
+                <li>Student Id : @s.Department</li>
+            </ul>
+        }
+        <hr />
+        <ul>
+            <li>Student Id : @Model.Id </li>
+            <li>Student Id : @Model.Name</li>
+            <li>Student Id : @Model.Department</li>
+        </ul>
+
+        
+    }
+
+    </div>
+</body>
+</html>

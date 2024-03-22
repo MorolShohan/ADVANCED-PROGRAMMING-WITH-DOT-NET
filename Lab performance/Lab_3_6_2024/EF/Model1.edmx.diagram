@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="08ab4c2689764af0bfc0be862a9eaa23" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="Lab_3_6_2024Model.Enrollment" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Lab_3_6_2024Model.Project" Width="1.5" PointX="5.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Lab_3_6_2024Model.UserProjectRelation" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Lab_3_6_2024Model.User" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <AssociationConnector Association="Lab_3_6_2024Model.FK_Enrollments_Projects" ManuallyRouted="false" />
+        <AssociationConnector Association="Lab_3_6_2024Model.FK_Enrollments_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Lab_3_6_2024Model.FK_UserProjectRelation_Projects" ManuallyRouted="false" />
+        <AssociationConnector Association="Lab_3_6_2024Model.FK_UserProjectRelation_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

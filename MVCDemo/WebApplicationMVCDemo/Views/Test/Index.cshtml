@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h3>Info 1: @TempData["id"]</h3>
+        <h3>Info 1: @ViewBag.Info1</h3>
+        <h3>Info 2: @ViewBag.Info2</h3>
+    </div>
+
+    <div>
+        <ul>
+            @foreach (var item in ViewBag.Std)
+            {
+                <li>
+                    @item.Id--@item.Name--@item.Department
+                </li>
+            }
+        </ul>
+    </div>
+</body>
+</html>
