@@ -75,7 +75,7 @@ namespace Zero_Hunger.Controllers
                 }
                 db.SaveChanges();
                 Session["foodlist"] = null;
-                TempData["msg"] = "Successfully added an reqest";
+                TempData["msg"] = "Successfully added an request";
                 return RedirectToAction("cart");
             }
             return View(pr);

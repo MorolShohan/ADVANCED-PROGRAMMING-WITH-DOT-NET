@@ -19,7 +19,7 @@
     }
 }
 
-<h2>checkout</h2>
+<h2><b><i>Add Items</i></b></h2>
 
 @if (Session["foodlist"] == null)
 {
@@ -27,7 +27,7 @@
 }
 else
 {
-    <table class="table">
+    <table class="table table-striped">
         <tr>
             <th>
                 Type
@@ -35,7 +35,7 @@ else
             <th>
                 Quantity
             </th>
-            <th></th>
+            
         </tr>
 
         @foreach (var item in (List<Zero_Hunger.Models.addFoodDTO>)Session["foodlist"])

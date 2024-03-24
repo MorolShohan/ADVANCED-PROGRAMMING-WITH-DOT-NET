@@ -11,14 +11,14 @@
         @TempData["msg"]
     </div>
 }
-<h2>cart</h2>
+
 @if (Model == null)
 {
-    <h1>No food is added yet</h1>
+    <h2><b><i>No food is added yet</i></b></h2>
 }
 else
 {
-    <table class="table">
+    <table class="table table-striped">
         <tr>
             <th>
                 Type
@@ -26,7 +26,7 @@ else
             <th>
                 Quantity
             </th>
-            <th></th>
+            
         </tr>
 
         @foreach (var item in Model)
@@ -44,5 +44,5 @@ else
 }
 
 @Html.ActionLink("Add more Food", "add", "restaurant", new { area = "" }, new { @class = "btn btn-success" })
-@Html.ActionLink("Checkout", "checkout", "restaurant", new { area = "" }, new { @class = "btn btn-dark" })
+@Html.ActionLink("Add to Request", "checkout", "restaurant", new { area = "" }, new { @class = "btn btn-dark" })
 @Html.ActionLink("Clear", "clear", "restaurant", new { area = "" }, new { @class = "btn btn-danger" })

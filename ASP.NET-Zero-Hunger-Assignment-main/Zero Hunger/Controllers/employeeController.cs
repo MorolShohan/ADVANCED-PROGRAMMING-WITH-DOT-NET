@@ -24,7 +24,7 @@ namespace Zero_Hunger.Controllers
             request rq = db.requests.Find(id);
             if (rq == null)
             {
-                TempData["msg"] = "Three is no request with id " + id.ToString();
+                TempData["msg"] = "There is no request with id " + id.ToString();
             }
             else
             {

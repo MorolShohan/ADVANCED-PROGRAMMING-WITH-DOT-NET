@@ -61,7 +61,7 @@ namespace Zero_Hunger.Controllers
                     rq.admin_id = (int)Session["id"];
                     db.requests.AddOrUpdate(rq);
                     db.SaveChanges();
-                    TempData["msg"] = emp.username + "has been assigned for request id " + id;
+                    TempData["msg"] = emp.username + " has been assigned for request id " + id;
                     return RedirectToAction("requestlist");
                 }
             }
@@ -139,6 +139,7 @@ namespace Zero_Hunger.Controllers
             var db = new zero_hungerEntities1();
             employee emp = db.employees.Find(id);
             editEmployeeDTO empDTO = new editEmployeeDTO()
+
             {
                 id = emp.id,
                 username = emp.username,

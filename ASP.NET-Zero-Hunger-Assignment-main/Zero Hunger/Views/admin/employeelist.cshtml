@@ -4,6 +4,10 @@
     ViewBag.Title = "Index";
 }
 
+<br />
+
+<h2><b><i>Employee list</i></b></h2>
+
 @if (TempData["msg"] != null)
 {
     <div class="alert alert-danger" role="alert">
@@ -16,10 +20,10 @@
         document.getElementById('deleteText').innerHTML = "Are you sure to delete employee id " + deleteId + "?";
     }
 </script>
-<h2>Index</h2>
-<li>@Html.ActionLink("Add Employee", "addemployee", "admin", new { area = "" }, new { @class = "btn btn-dark" })</li>
 
-<table class="table table-bordered">
+<li>@Html.ActionLink("Add Employee", "addemployee", "admin", new { area = "" }, new { @class = "btn btn-dark" })</li>
+<br />
+<table class="table table-striped">
     <tr>
         <th>id</th>
         <th>username</th>
@@ -28,7 +32,7 @@
         <th>Phone</th>
         <th>Address</th>
         <th>DOB</th>
-        <th>Addedd By</th>
+        <th>Added By</th>
     </tr>
     @foreach (var emp in Model)
     {
