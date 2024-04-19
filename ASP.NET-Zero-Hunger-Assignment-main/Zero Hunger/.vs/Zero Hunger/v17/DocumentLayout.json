@@ -11,32 +11,28 @@
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_restlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_restlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\requestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\requestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\admin\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\admin\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\admin\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\admin\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,36 +43,56 @@
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_restlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_restlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_emplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_emplayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\restaurantdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\restaurantdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\requestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\requestlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\admin\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\admin\\requestdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\admin\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\admin\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\admin\\restaurantdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,24 +111,12 @@
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{87A3BDA2-89A9-437D-BB5D-7BD014EE063A}|Zero Hunger.csproj|solutionrelative:db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,55 +126,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\restaurant\\Index.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\Index.cshtml",
-              "RelativeToolTip": "Views\\restaurant\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T23:18:25.104Z"
+              "DocumentIndex": 0,
+              "Title": "adminController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\adminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\adminController.cs",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\adminController.cs",
+              "RelativeToolTip": "Controllers\\adminController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAJoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:53:19.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\login.cshtml",
-              "RelativeDocumentMoniker": "Views\\restaurant\\login.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\login.cshtml",
-              "RelativeToolTip": "Views\\restaurant\\login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T19:19:06.308Z"
+              "DocumentIndex": 7,
+              "Title": "employeeController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\employeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\employeeController.cs",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\employeeController.cs",
+              "RelativeToolTip": "Controllers\\employeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:53:19.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "signup.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\signup.cshtml",
-              "RelativeDocumentMoniker": "Views\\restaurant\\signup.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\signup.cshtml",
-              "RelativeToolTip": "Views\\restaurant\\signup.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwBgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T23:23:24.042Z"
+              "DocumentIndex": 1,
+              "Title": "restaurantController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\restaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\restaurantController.cs",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\restaurantController.cs",
+              "RelativeToolTip": "Controllers\\restaurantController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAmwHUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:53:19.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\DB\\Model1.edmx",
+              "RelativeDocumentMoniker": "DB\\Model1.edmx",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\DB\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DB\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-19T18:02:34.51Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAxAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\employee\\Index.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T19:44:52.821Z"
+              "WhenOpened": "2024-03-19T18:37:37.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "requestdetails.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestdetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\employee\\requestdetails.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestdetails.cshtml",
+              "RelativeToolTip": "Views\\employee\\requestdetails.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:17:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "requestlist.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestlist.cshtml",
+              "RelativeDocumentMoniker": "Views\\employee\\requestlist.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestlist.cshtml",
+              "RelativeToolTip": "Views\\employee\\requestlist.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAC8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:13:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "checkout.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\restaurant\\checkout.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\checkout.cshtml",
+              "RelativeToolTip": "Views\\restaurant\\checkout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvzQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:24:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\restaurant\\cart.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\cart.cshtml",
+              "RelativeToolTip": "Views\\restaurant\\cart.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:26:34.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\add.cshtml",
+              "RelativeDocumentMoniker": "Views\\restaurant\\add.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\add.cshtml",
+              "RelativeToolTip": "Views\\restaurant\\add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:20:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\favicon.ico",
+              "RelativeDocumentMoniker": "favicon.ico",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-25T05:41:11.245Z"
             },
             {
               "$type": "Document",
@@ -186,152 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "restaurantController.cs",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\restaurantController.cs",
-              "RelativeDocumentMoniker": "Controllers\\restaurantController.cs",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\restaurantController.cs",
-              "RelativeToolTip": "Controllers\\restaurantController.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAmwE0AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T11:53:19.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "employeelist.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\employeelist.cshtml",
-              "RelativeDocumentMoniker": "Views\\admin\\employeelist.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\employeelist.cshtml",
-              "RelativeToolTip": "Views\\admin\\employeelist.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwEEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T23:38:04.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "adminController.cs",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\adminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\adminController.cs",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\adminController.cs",
-              "RelativeToolTip": "Controllers\\adminController.cs",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAQwIcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T11:53:19.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "checkout.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\checkout.cshtml",
-              "RelativeDocumentMoniker": "Views\\restaurant\\checkout.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\checkout.cshtml",
-              "RelativeToolTip": "Views\\restaurant\\checkout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:24:39.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "cart.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\cart.cshtml",
-              "RelativeDocumentMoniker": "Views\\restaurant\\cart.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\cart.cshtml",
-              "RelativeToolTip": "Views\\restaurant\\cart.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwCoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:26:34.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_restLayout.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_restLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_restLayout.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_restLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_restLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T19:45:01.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "requestdetails.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestdetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\admin\\requestdetails.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestdetails.cshtml",
-              "RelativeToolTip": "Views\\admin\\requestdetails.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAmwA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:42:28.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "employeeController.cs",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\employeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\employeeController.cs",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\employeeController.cs",
-              "RelativeToolTip": "Controllers\\employeeController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAswFsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T11:53:19.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "restaurantDetails.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\restaurantDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\employee\\restaurantDetails.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\restaurantDetails.cshtml",
-              "RelativeToolTip": "Views\\employee\\restaurantDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:17:55.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "requestdetails.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestdetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\employee\\requestdetails.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestdetails.cshtml",
-              "RelativeToolTip": "Views\\employee\\requestdetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:17:17.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "requestlist.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestlist.cshtml",
-              "RelativeDocumentMoniker": "Views\\employee\\requestlist.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\requestlist.cshtml",
-              "RelativeToolTip": "Views\\employee\\requestlist.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowBYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:13:04.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\employee\\Index.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\Index.cshtml",
-              "RelativeToolTip": "Views\\employee\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T18:37:37.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_adminLayout.cshtml",
               "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_adminLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_adminLayout.cshtml",
@@ -343,91 +285,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "add.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\add.cshtml",
-              "RelativeDocumentMoniker": "Views\\restaurant\\add.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\add.cshtml",
-              "RelativeToolTip": "Views\\restaurant\\add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "DocumentIndex": 15,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\restaurant\\signup.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\signup.cshtml",
+              "RelativeToolTip": "Views\\restaurant\\signup.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T23:20:42.119Z"
+              "WhenOpened": "2024-03-19T23:23:24.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\restaurant\\login.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\login.cshtml",
+              "RelativeToolTip": "Views\\restaurant\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:19:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\restaurant\\Index.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\restaurant\\Index.cshtml",
+              "RelativeToolTip": "Views\\restaurant\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:18:25.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:44:52.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_restLayout.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_restLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_restLayout.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Shared\\_restLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_restLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:45:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "restaurantDetails.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\restaurantDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\employee\\restaurantDetails.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\restaurantDetails.cshtml",
+              "RelativeToolTip": "Views\\employee\\restaurantDetails.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:17:55.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "restaurantDetails.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\restaurantDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\admin\\restaurantDetails.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\restaurantDetails.cshtml",
-              "RelativeToolTip": "Views\\admin\\restaurantDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T19:11:08.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "requestlist.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestlist.cshtml",
-              "RelativeDocumentMoniker": "Views\\admin\\requestlist.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestlist.cshtml",
-              "RelativeToolTip": "Views\\admin\\requestlist.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T18:23:58.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\admin\\Index.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\admin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T19:06:19.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "login.cshtml",
               "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\login.cshtml",
               "RelativeDocumentMoniker": "Views\\employee\\login.cshtml",
               "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\employee\\login.cshtml",
               "RelativeToolTip": "Views\\employee\\login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T18:33:40.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T19:49:35.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "addemployee.cshtml",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\addemployee.cshtml",
-              "RelativeDocumentMoniker": "Views\\admin\\addemployee.cshtml",
-              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\addemployee.cshtml",
-              "RelativeToolTip": "Views\\admin\\addemployee.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCsAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T23:33:50.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -439,18 +381,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "employeelist.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\employeelist.cshtml",
+              "RelativeDocumentMoniker": "Views\\admin\\employeelist.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\employeelist.cshtml",
+              "RelativeToolTip": "Views\\admin\\employeelist.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwEEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:38:04.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "requestdetails.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestdetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\admin\\requestdetails.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestdetails.cshtml",
+              "RelativeToolTip": "Views\\admin\\requestdetails.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:42:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "restaurantDetails.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\restaurantDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\admin\\restaurantDetails.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\restaurantDetails.cshtml",
+              "RelativeToolTip": "Views\\admin\\restaurantDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T19:11:08.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "requestlist.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestlist.cshtml",
+              "RelativeDocumentMoniker": "Views\\admin\\requestlist.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\requestlist.cshtml",
+              "RelativeToolTip": "Views\\admin\\requestlist.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T18:23:58.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\admin\\Index.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:06:19.429Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\DB\\Model1.edmx",
-              "RelativeDocumentMoniker": "DB\\Model1.edmx",
-              "ToolTip": "D:\\DOT NET TANVIR SIR MID\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\DB\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\DOT NET TANVIR SIR MID\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\DB\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-03-19T18:02:34.51Z"
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:49:35.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "addemployee.cshtml",
+              "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\addemployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\admin\\addemployee.cshtml",
+              "ToolTip": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\admin\\addemployee.cshtml",
+              "RelativeToolTip": "Views\\admin\\addemployee.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:33:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DOT NET\\ASP.NET-Zero-Hunger-Assignment-main\\Zero Hunger\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",

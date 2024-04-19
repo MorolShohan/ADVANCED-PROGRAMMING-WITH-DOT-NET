@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET\\Final lab performance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\migrations\\202404191127438_courseanddeptadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\migrations\\202404191127438_courseanddeptadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\ef\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\ef\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\ef\\tbls\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\ef\\tbls\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\ef\\tbls\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\ef\\tbls\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\migrations\\202404191115261_initdbwithperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\migrations\\202404191115261_initdbwithperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\ef\\tbls\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\ef\\tbls\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|d:\\dot net\\final lab performance\\final lab performance\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F87FFA9C-2ABA-4997-8C71-C4E617AEEFEC}|Final lab performance\\Final lab performance.csproj|solutionrelative:final lab performance\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202404191127438_CourseandDeptAdded.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Migrations\\202404191127438_CourseandDeptAdded.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\Migrations\\202404191127438_CourseandDeptAdded.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Migrations\\202404191127438_CourseandDeptAdded.cs",
+              "RelativeToolTip": "Final lab performance\\Migrations\\202404191127438_CourseandDeptAdded.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:27:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\Tbls\\Department.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\EF\\Tbls\\Department.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\Tbls\\Department.cs",
+              "RelativeToolTip": "Final lab performance\\EF\\Tbls\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:24:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\Tbls\\Course.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\EF\\Tbls\\Course.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\Tbls\\Course.cs",
+              "RelativeToolTip": "Final lab performance\\EF\\Tbls\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:23:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202404191115261_InitDBWithPerson.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Migrations\\202404191115261_InitDBWithPerson.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\Migrations\\202404191115261_InitDBWithPerson.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Migrations\\202404191115261_InitDBWithPerson.cs",
+              "RelativeToolTip": "Final lab performance\\Migrations\\202404191115261_InitDBWithPerson.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA5wAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:15:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Final lab performance\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:11:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonContext.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\PersonContext.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\EF\\PersonContext.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\PersonContext.cs",
+              "RelativeToolTip": "Final lab performance\\EF\\PersonContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:10:39.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\Tbls\\Person.cs",
+              "RelativeDocumentMoniker": "Final lab performance\\EF\\Tbls\\Person.cs",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\EF\\Tbls\\Person.cs",
+              "RelativeToolTip": "Final lab performance\\EF\\Tbls\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:08:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Web.config",
+              "RelativeDocumentMoniker": "Final lab performance\\Web.config",
+              "ToolTip": "D:\\DOT NET\\Final lab performance\\Final lab performance\\Web.config",
+              "RelativeToolTip": "Final lab performance\\Web.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T08:56:15.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
