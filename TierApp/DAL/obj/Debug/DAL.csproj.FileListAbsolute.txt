@@ -1,0 +1,10 @@
+D:\DOT NET\TierApp\DAL\bin\Debug\DAL.dll.config
+D:\DOT NET\TierApp\DAL\bin\Debug\DAL.dll
+D:\DOT NET\TierApp\DAL\bin\Debug\DAL.pdb
+D:\DOT NET\TierApp\DAL\bin\Debug\EntityFramework.dll
+D:\DOT NET\TierApp\DAL\bin\Debug\EntityFramework.xml
+D:\DOT NET\TierApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DOT NET\TierApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DOT NET\TierApp\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DOT NET\TierApp\DAL\obj\Debug\DAL.dll
+D:\DOT NET\TierApp\DAL\obj\Debug\DAL.pdb

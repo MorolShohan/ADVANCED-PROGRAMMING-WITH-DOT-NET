@@ -1,11 +1,15 @@
-﻿using System.Collections.Generic;
+﻿using AutoMapper;
+using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using WebAPI.Models;
 using WebAPI.Models.VM;
 
 namespace WebAPI.Controllers
 {
+
+    [EnableCors("http://localhost", "*", "*")]
     public class PersonController : ApiController
     {
         [Route("api/person/names")]
@@ -29,7 +33,19 @@ namespace WebAPI.Controllers
         public List<PersonModel> Get()
         {
             Sp24_CF_AEntities db = new Sp24_CF_AEntities();
-            var data = new List<PersonModel>();
+            var config = new MapperConfiguration(cfg => cfg.CreateMap<Person, PersonModel>());
+            var mapper = new Mapper(config);
+            var data = mapper.Map<List<PersonModel>>(db.People.ToList());
+
+
+
+
+
+
+
+
+
+            /* var data = new List<PersonModel>();
             foreach (var item in db.People)
             {
                 var person = new PersonModel()
@@ -39,7 +55,7 @@ namespace WebAPI.Controllers
                     DOB = item.DOB
                 };
                 data.Add(person);
-            }
+            }*/
             return data;
 
         }

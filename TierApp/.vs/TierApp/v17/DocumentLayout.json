@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET\\TierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A355B85F-C80E-4A5A-898A-4DB74584C64E}|TierApp\\TierApp.csproj|D:\\DOT NET\\TierApp\\tierapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355B85F-C80E-4A5A-898A-4DB74584C64E}|TierApp\\TierApp.csproj|solutionrelative:tierapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD778535-86EB-4F94-AD47-641B40199F40}|DAL\\DAL.csproj|D:\\DOT NET\\TierApp\\dal\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD778535-86EB-4F94-AD47-641B40199F40}|DAL\\DAL.csproj|solutionrelative:dal\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355B85F-C80E-4A5A-898A-4DB74584C64E}|TierApp\\TierApp.csproj|d:\\dot net\\tierapp\\tierapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A355B85F-C80E-4A5A-898A-4DB74584C64E}|TierApp\\TierApp.csproj|solutionrelative:tierapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B145AE1-A66D-4FFB-AC11-78F297FE84FB}|BLL\\BLL.csproj|D:\\DOT NET\\TierApp\\bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B145AE1-A66D-4FFB-AC11-78F297FE84FB}|BLL\\BLL.csproj|solutionrelative:bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD778535-86EB-4F94-AD47-641B40199F40}|DAL\\DAL.csproj|D:\\DOT NET\\TierApp\\dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD778535-86EB-4F94-AD47-641B40199F40}|DAL\\DAL.csproj|solutionrelative:dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B145AE1-A66D-4FFB-AC11-78F297FE84FB}|BLL\\BLL.csproj|D:\\DOT NET\\TierApp\\bll\\bent\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B145AE1-A66D-4FFB-AC11-78F297FE84FB}|BLL\\BLL.csproj|solutionrelative:bll\\bent\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B145AE1-A66D-4FFB-AC11-78F297FE84FB}|BLL\\BLL.csproj|D:\\DOT NET\\TierApp\\bll\\bent\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B145AE1-A66D-4FFB-AC11-78F297FE84FB}|BLL\\BLL.csproj|solutionrelative:bll\\bent\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD778535-86EB-4F94-AD47-641B40199F40}|DAL\\DAL.csproj|D:\\DOT NET\\TierApp\\dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DD778535-86EB-4F94-AD47-641B40199F40}|DAL\\DAL.csproj|solutionrelative:dal\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\TierApp\\Web.config",
+              "RelativeDocumentMoniker": "TierApp\\Web.config",
+              "ToolTip": "D:\\DOT NET\\TierApp\\TierApp\\Web.config",
+              "RelativeToolTip": "TierApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-20T20:15:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\TierApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TierApp\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\DOT NET\\TierApp\\TierApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TierApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:01:51.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\DAL\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Student.cs",
+              "ToolTip": "D:\\DOT NET\\TierApp\\DAL\\Student.cs",
+              "RelativeToolTip": "DAL\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:17:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\BLL\\BEnt\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "BLL\\BEnt\\DepartmentModel.cs",
+              "ToolTip": "D:\\DOT NET\\TierApp\\BLL\\BEnt\\DepartmentModel.cs",
+              "RelativeToolTip": "BLL\\BEnt\\DepartmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:09:13.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\BLL\\BEnt\\StudentModel.cs",
+              "RelativeDocumentMoniker": "BLL\\BEnt\\StudentModel.cs",
+              "ToolTip": "D:\\DOT NET\\TierApp\\BLL\\BEnt\\StudentModel.cs",
+              "RelativeToolTip": "BLL\\BEnt\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:00:19.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\DAL\\Model1.edmx",
+              "RelativeDocumentMoniker": "DAL\\Model1.edmx",
+              "ToolTip": "D:\\DOT NET\\TierApp\\DAL\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DAL\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-20T18:36:42.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\BLL\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\StudentService.cs",
+              "ToolTip": "D:\\DOT NET\\TierApp\\BLL\\StudentService.cs",
+              "RelativeToolTip": "BLL\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:35:18.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\DOT NET\\TierApp\\DAL\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentRepo.cs",
+              "ToolTip": "D:\\DOT NET\\TierApp\\DAL\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\StudentRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:34:58.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

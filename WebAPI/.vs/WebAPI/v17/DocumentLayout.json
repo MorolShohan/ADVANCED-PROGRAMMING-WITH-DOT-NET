@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|d:\\dot net\\webapi\\webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|d:\\dot net\\webapi\\webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|D:\\DOT NET\\WebAPI\\webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|d:\\dot net\\webapi\\webapi\\models\\vm\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|D:\\DOT NET\\WebAPI\\webapi\\models\\vm\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E62E897-C63E-4862-BA1D-13C50EC987DC}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\vm\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\DOT NET\\WebAPI\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\DOT NET\\WebAPI\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:33:25.405Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\PersonController.cs",
               "ToolTip": "D:\\DOT NET\\WebAPI\\WebAPI\\Controllers\\PersonController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBUAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T04:57:58.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "D:\\DOT NET\\WebAPI\\WebAPI\\Models\\VM\\PersonModel.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\VM\\PersonModel.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\DOT NET\\WebAPI\\WebAPI\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\DepartmentController.cs",
@@ -69,14 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UMS.edmx [Diagram1]",
               "DocumentMoniker": "D:\\DOT NET\\WebAPI\\WebAPI\\Models\\UMS.edmx",
               "RelativeDocumentMoniker": "WebAPI\\Models\\UMS.edmx",
               "ToolTip": "D:\\DOT NET\\WebAPI\\WebAPI\\Models\\UMS.edmx [Diagram1]",
               "RelativeToolTip": "WebAPI\\Models\\UMS.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-04-19T15:04:07.156Z"
+              "WhenOpened": "2024-04-19T15:04:07.156Z",
+              "EditorCaption": " [Diagram1]"
             }
           ]
         }

@@ -3,35 +3,35 @@
   "WorkspaceRootPath": "D:\\DOT NET\\Three_Layer_Architechture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|D:\\DOT NET\\Three_Layer_Architechture\\dal\\ef\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|d:\\dot net\\three_layer_architechture\\dal\\ef\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|d:\\dot net\\three_layer_architechture\\dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|D:\\DOT NET\\Three_Layer_Architechture\\dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|d:\\dot net\\three_layer_architechture\\bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|D:\\DOT NET\\Three_Layer_Architechture\\bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|d:\\dot net\\three_layer_architechture\\bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|D:\\DOT NET\\Three_Layer_Architechture\\bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5CC772-BE7A-46BB-8A4B-314DE73391B4}|Three_Layer_Architechture\\Three_Layer_Architechture.csproj|d:\\dot net\\three_layer_architechture\\three_layer_architechture\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D5CC772-BE7A-46BB-8A4B-314DE73391B4}|Three_Layer_Architechture\\Three_Layer_Architechture.csproj|D:\\DOT NET\\Three_Layer_Architechture\\three_layer_architechture\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5CC772-BE7A-46BB-8A4B-314DE73391B4}|Three_Layer_Architechture\\Three_Layer_Architechture.csproj|solutionrelative:three_layer_architechture\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|d:\\dot net\\three_layer_architechture\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|D:\\DOT NET\\Three_Layer_Architechture\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|d:\\dot net\\three_layer_architechture\\dal\\ef\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49704C6-215D-415C-9A24-14FCF8C696B7}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|d:\\dot net\\three_layer_architechture\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|D:\\DOT NET\\Three_Layer_Architechture\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D64FE01-9CE1-4048-951A-709EA1EDCC9E}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CourseController.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\Three_Layer_Architechture\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Three_Layer_Architechture\\Controllers\\CourseController.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Three_Layer_Architechture\\Controllers\\CourseController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAIwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T13:06:41.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T13:06:41.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CourseDTO.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\BLL\\DTOs\\CourseDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\CourseDTO.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "BLL\\DTOs\\CourseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:31:35.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T12:31:35.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CourseService.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\BLL\\Services\\CourseService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\CourseService.cs",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "BLL\\Services\\CourseService.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA5wA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:27:14.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T12:27:14.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CourseRepo.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\DAL\\Repos\\CourseRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\CourseRepo.cs",
@@ -93,25 +90,24 @@
               "RelativeToolTip": "DAL\\Repos\\CourseRepo.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAQwAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T12:07:31.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T12:07:31.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\DAL\\EF\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Entities\\Course.cs",
               "ToolTip": "D:\\DOT NET\\Three_Layer_Architechture\\DAL\\EF\\Entities\\Course.cs",
               "RelativeToolTip": "DAL\\EF\\Entities\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:02:05.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\DAL\\EF\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Entities\\Student.cs",
@@ -124,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StudentRepo.cs",
               "DocumentMoniker": "D:\\DOT NET\\Three_Layer_Architechture\\DAL\\Repos\\StudentRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:47:36.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T11:47:36.799Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T11:46:37.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T11:46:37.329Z"
             }
           ]
         }
