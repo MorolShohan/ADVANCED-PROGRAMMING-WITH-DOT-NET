@@ -1,0 +1,9 @@
+D:\DOT NET\CourseMarket\BLL\bin\Debug\BLL.dll
+D:\DOT NET\CourseMarket\BLL\bin\Debug\BLL.pdb
+D:\DOT NET\CourseMarket\BLL\bin\Debug\DAL.dll
+D:\DOT NET\CourseMarket\BLL\bin\Debug\DAL.pdb
+D:\DOT NET\CourseMarket\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DOT NET\CourseMarket\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DOT NET\CourseMarket\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DOT NET\CourseMarket\BLL\obj\Debug\BLL.dll
+D:\DOT NET\CourseMarket\BLL\obj\Debug\BLL.pdb

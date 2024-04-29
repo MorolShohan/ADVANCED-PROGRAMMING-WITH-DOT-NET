@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45F9AD6-F8E2-4D1A-9275-5323AD557240}|WebApplicationMVCDemo\\WebApplicationMVCDemo.csproj|d:\\courses\\dot net\\advanced programming with .net\\mid\\class lecture\\projects\\webapplicationmvcdemo\\webapplicationmvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45F9AD6-F8E2-4D1A-9275-5323AD557240}|WebApplicationMVCDemo\\WebApplicationMVCDemo.csproj|solutionrelative:webapplicationmvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45F9AD6-F8E2-4D1A-9275-5323AD557240}|WebApplicationMVCDemo\\WebApplicationMVCDemo.csproj|d:\\courses\\dot net\\advanced programming with .net\\mid\\class lecture\\projects\\webapplicationmvcdemo\\webapplicationmvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45F9AD6-F8E2-4D1A-9275-5323AD557240}|WebApplicationMVCDemo\\WebApplicationMVCDemo.csproj|solutionrelative:webapplicationmvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45F9AD6-F8E2-4D1A-9275-5323AD557240}|WebApplicationMVCDemo\\WebApplicationMVCDemo.csproj|d:\\courses\\dot net\\advanced programming with .net\\mid\\class lecture\\projects\\webapplicationmvcdemo\\webapplicationmvcdemo\\views\\employee\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A45F9AD6-F8E2-4D1A-9275-5323AD557240}|WebApplicationMVCDemo\\WebApplicationMVCDemo.csproj|solutionrelative:webapplicationmvcdemo\\views\\employee\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\WebApplicationMVCDemo\\Views\\Employee\\Test.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMVCDemo\\Views\\Employee\\Test.cshtml",
+              "ToolTip": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\WebApplicationMVCDemo\\Views\\Employee\\Test.cshtml",
+              "RelativeToolTip": "WebApplicationMVCDemo\\Views\\Employee\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T08:30:46.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\WebApplicationMVCDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationMVCDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\WebApplicationMVCDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationMVCDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:30:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\WebApplicationMVCDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplicationMVCDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Courses\\Dot Net\\ADVANCED PROGRAMMING WITH .NET\\MID\\CLASS LECTURE\\Projects\\WebApplicationMVCDemo\\WebApplicationMVCDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplicationMVCDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:29:37.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

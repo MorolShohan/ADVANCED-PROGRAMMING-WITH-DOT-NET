@@ -1,0 +1,32 @@
+﻿@using WebApplicationMVCDemo.Models
+@model Employee
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Test</title>
+</head>
+<body>
+    <div>
+        @Html.TextBox("I")<br /><br />
+        @Html.TextBoxFor(x => x.Id)
+        @Html.TextAreaFor(x => x.Name)
+
+        <br /><br />
+        <hr />
+
+        @Html.DisplayName("Id")
+        <br />
+        @Html.DisplayTextFor(x => x.Name)
+        @Html.EditorFor(x => x.Name)
+        @Html.EditorFor(x=>x.DOB)
+        <hr/>
+        <hr />
+
+        @Html.EditorForModel()
+
+    </div>
+</body>
+</html>

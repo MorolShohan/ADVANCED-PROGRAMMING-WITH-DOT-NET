@@ -1,0 +1,43 @@
+﻿@model WebApplicationMVCDemo.Models.Employee
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("SaveData", "Employee", FormMethod.Post))
+        {
+            @Html.Label("Employee ID")
+            @Html.TextBox("Id")
+            @Html.ValidationMessage("Id")
+            <br /><br />
+
+            @Html.Label("Employee Name")
+            @Html.TextBox("Name")
+            @Html.ValidationMessage("Name")
+            <br /><br />
+
+            @Html.Label("Employee Salary")
+            @Html.TextBox("Salary")
+            @Html.ValidationMessage("Salary")
+            <br /><br />
+
+            @Html.Label("Employee Email")
+            @Html.TextBox("Email")
+            @Html.ValidationMessage("Email")
+            <br /><br />
+
+            <input type="submit" value="Save" />
+        }
+
+
+
+
+
+    </div>
+</body>
+</html>

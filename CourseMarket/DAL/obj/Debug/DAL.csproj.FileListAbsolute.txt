@@ -1,0 +1,6 @@
+D:\DOT NET\CourseMarket\DAL\bin\Debug\DAL.dll
+D:\DOT NET\CourseMarket\DAL\bin\Debug\DAL.pdb
+D:\DOT NET\CourseMarket\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DOT NET\CourseMarket\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DOT NET\CourseMarket\DAL\obj\Debug\DAL.dll
+D:\DOT NET\CourseMarket\DAL\obj\Debug\DAL.pdb

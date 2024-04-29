@@ -1,0 +1,1 @@
+﻿select * from UserInfo where Name like 'b%';
