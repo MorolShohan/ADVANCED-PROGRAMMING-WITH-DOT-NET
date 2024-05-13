@@ -1,0 +1,51 @@
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\BLL.dll.config
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\BLL.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\BLL.pdb
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\AutoMapper.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\DAL.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\EntityFramework.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\DAL.pdb
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\DAL.dll.config
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\AutoMapper.xml
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\EntityFramework.xml
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\obj\Debug\BLL.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Practices\BLL\obj\Debug\BLL.pdb
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\BLL.dll.config
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\BLL.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\BLL.pdb
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\AutoMapper.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\DAL.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\EntityFramework.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\DAL.pdb
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\DAL.dll.config
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\AutoMapper.xml
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\EntityFramework.xml
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\obj\Debug\BLL.dll
+D:\aiub\0. Github\dotNet-Lab-Task\Lab 09\BLL\obj\Debug\BLL.pdb
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\BLL.dll.config
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\BLL.dll
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\BLL.pdb
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\AutoMapper.dll
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\DAL.dll
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\EntityFramework.dll
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\DAL.pdb
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\DAL.dll.config
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\AutoMapper.xml
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\EntityFramework.xml
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\obj\Debug\BLL.dll
+D:\Monikir files\ASP.NET-Framework-Lab-Task-main\Lab 07\N Tier Layer Arch\BLL\obj\Debug\BLL.pdb
